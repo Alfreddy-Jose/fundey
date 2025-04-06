@@ -22,6 +22,7 @@
     <script src="/FUNDEY/app/views/plugins/datatables/datatables.min.js"></script>
     <script src="/FUNDEY/app/views/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="/FUNDEY/app/views/js/formulario.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
 <?php
 if ($_SERVER['PHP_SELF'] == '/FUNDEY/app/views/competencia/competencia.php' || $_SERVER['PHP_SELF'] == '/FUNDEY/app/views/atleta/atleta.php') {?>
 
